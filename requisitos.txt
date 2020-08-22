@@ -1,0 +1,5 @@
+Funcionalidades: cadastro de motorista, cadastro de passageiro, cadastro de veículo, calculo de rota, calculo de passageiro,
+calculo de preço, solicitação de viagem, taxa de aceitação do motorista, taxa de aceitação de viagens (média de qts viagens
+o motorista aceitou e quantas rejeitou), taxa de aceitação do passageiro, endereço do embarque, endereço do desembarque,
+calculo de tempo de chegada ao destino, calculo de tempo de chegada ao passageiro, nota que o passageiro dá ao motorista,
+nota que o mototista dá ao passageiro.
